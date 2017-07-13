@@ -13,3 +13,7 @@ What is uses:
 - json2csv
 - csvtojson
 - json2xls
+
+To Do
+- Handle multiple request promises
+- Helper to write excel directly
