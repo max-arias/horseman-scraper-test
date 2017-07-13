@@ -1,0 +1,22 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "csvtojson": "^1.1.7",
+    "express": "^4.15.3",
+    "json2csv": "^3.9.0",
+    "json2xls": "^0.1.2",
+    "lodash": "^4.17.4",
+    "node-horseman": "^3.3.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.2"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "standard"
+  }
+}
